@@ -1,6 +1,27 @@
 <table>
   <tr>
     <td align="center" width="25%">
+      <img src="image-1" alt="Certificat 1" width="100%">
+      <p><strong><a href="link"></a></strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="image-2" alt="Certificat 2" width="100%">
+      <p><strong><a href="link"></a></strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="image-3" alt="Certificat 3" width="100%">
+      <p><strong><a href="link"></a></strong></p>
+    </td>
+    <td align="center" width="25%">
+      <img src="CertificatDaccomplissement_Lessentiel de Vertex AI_page-0001.jpg" alt="Certificat 4" width="100%">
+      <p><strong><a href="https://www.linkedin.com/learning/certificates/d66aaf6d3dacc8f5ff914de492494716ee7a2c2b395a1c78e10037f0bdafea33?trk=share_certificate">L'essentiel de Vertex AI </a></strong></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="25%">
       <img src="coursera-Smart Analytics, Machine Learning, and AI on  Google Cloud_page-0001.jpg" alt="Certificat 1" width="100%">
       <p><strong><a href="https://coursera.org/share/89720c57426a110667ed91cc67fba512"> Smart Analytics, Machine Learning, and AI on
  Google Cloud</a></strong></p>
