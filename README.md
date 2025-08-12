@@ -9,8 +9,8 @@
       <p><strong><a href="link"></a></strong></p>
     </td>
     <td align="center" width="25%">
-      <img src="image-3" alt="Certificat 3" width="100%">
-      <p><strong><a href="link"></a></strong></p>
+      <img src="Certificat-L'analyse marketing_les indicateurs cles de performance.jpg" alt="Certificat 3" width="100%">
+      <p><strong><a href="https://www.linkedin.com/learning/certificates/eb81afb123bc7018003963ba9b2a449ce5759ae8777e56774d470337129e175a"></a></strong>L'analyse marketing : les indicateurs clés de performance (KPI)</p>
     </td>
     <td align="center" width="25%">
       <img src="CertificatDaccomplissement_Lessentiel de Vertex AI_page-0001.jpg" alt="Certificat 4" width="100%">
