@@ -83,3 +83,13 @@
     </td>
   </tr>
 </table>
+
+## Rédaction Web SEO
+<table>
+<td align="center" width="25%">
+      <img src="Certificat-Redaction-Web.jpg" alt="Certificat 1" width="100%">
+      <p><strong><a href="">Devenir Rédacteur Web SEO</a></strong></p>
+    </td>
+  </tr>
+</table>
+
