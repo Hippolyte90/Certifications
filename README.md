@@ -5,7 +5,7 @@
       <p><strong><a href="link"></a></strong></p>
     </td>
     <td align="center" width="25%">
-      <img src="image-2" alt="Certificat 2" width="100%">
+      <img src="Core Designer Certificate.jpg" alt="Certificat 2" width="100%">
       <p><strong><a href="link"></a></strong></p>
     </td>
     <td align="center" width="25%">
