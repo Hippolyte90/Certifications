@@ -6,7 +6,7 @@
     </td>
     <td align="center" width="25%">
       <img src="Core Designer Certificate.jpg" alt="Certificat 2" width="100%">
-      <p><strong><a href="link"></a></strong></p>
+      <p><strong><a href="http://verify.skilljar.com/c/odxf3nqv2cft">Core Designer Certificate</a></strong></p>
     </td>
     <td align="center" width="25%">
       <img src="Certificat-L'analyse marketing_les indicateurs cles de performance.jpeg" alt="Certificat 3" width="100%">
